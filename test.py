@@ -1,2 +1,2 @@
 __author__ = 'Luis'
-s
+a = 512
